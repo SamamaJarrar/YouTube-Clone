@@ -1,0 +1,15 @@
+p {
+  /* This is called font stack. This means that if our page fails to load Roboto from Google Fonts than our page will fall back to our backup font which in this case is Arial. */
+  /* font-family: Roboto, Arial; */
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: Roboto, Arial;
+  background-color: rgb(248, 248, 248);
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+}
